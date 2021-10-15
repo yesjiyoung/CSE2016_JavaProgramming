@@ -22,7 +22,7 @@
 |9/6|[강의 소개](https://languid-sundae-e41.notion.site/1-7d6c52d1e28c4ded83c26a15e1242103)|&#9989;|[JAVA 소개](https://languid-sundae-e41.notion.site/JAVA-df5a2d0b038143d78b0d384721fdc06a)|&#9989;|
 |9/13|간단한 자바 프로그램, 산술 연산과 변수||[산술연산과 변수](https://languid-sundae-e41.notion.site/0f09bc4724644b539c1dd1dfdc5a0a7d)|
 |9/20|추석|||
-|9/27|부품구조: 클래스와 메소드 1|&#9989;||&#9989;|
+|9/27|부품구조: 클래스와 메소드 1|&#9989;|[클래스와 객체](https://languid-sundae-e41.notion.site/1e51618eb2f2465b9392ac42e54d9a84)|&#9989;|
 |10/4|제어구조|||
 |10/11|반복: 루프와 재귀호출|||
 |10/18|자료구조 1|||
